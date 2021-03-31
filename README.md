@@ -1,1 +1,1 @@
-# kdlf
+# Kinematics-Dependent Latent Factor (KDLF)
